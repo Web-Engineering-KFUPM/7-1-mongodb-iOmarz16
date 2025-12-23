@@ -1,5 +1,12 @@
 {
+  "name": "Lab-2-2-more-html",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "grade": "node script.js"
+  },
   "dependencies": {
-    "mongoose": "^8.19.4"
+    "cheerio": "^1.0.0-rc.12"
   }
 }
